@@ -1,1 +1,2 @@
-#Distributed computing  mini project
+#Distributed computing  
+mini project
